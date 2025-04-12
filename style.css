@@ -1,0 +1,48 @@
+
+
+body{
+  background-color: goldenrod;
+}
+#box1{
+  border: solid black;
+  flex: center;
+  height: 400px;
+  width:70%;
+  overflow: hidden;
+  
+}
+div{
+  border-radius: 10px;
+}
+#boxh{
+  font-size: 25px;
+  border: solid grey;
+  padding-top:0px;
+  margin-top: 0px;
+  font-family: "quicksand", san serif;
+}
+h2{
+  padding: 0px;
+  margin: 0px;
+}
+#boxback{
+  background-image: url(clouds-rain.gif);
+  height: 200px;
+  overflow: hidden;
+  
+}
+#boxobj{
+  background-image: url(object.gif);
+  height: 200px;
+  background-size: 180px;
+  width:300;
+  background-position: center;
+  border: solid black;
+  background-repeat: no-repeat;
+}
+img{
+  width:200px;
+}
+#counter{
+  font-size:50px;
+}
